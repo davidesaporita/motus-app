@@ -35,7 +35,7 @@ fi
 
 echo "→ Copio il codice nella repository"
 rsync -a --exclude '.git' --exclude 'node_modules' --exclude '__MACOSX' --exclude '.DS_Store' \
-      --exclude 'scripts/importa-da-figma-make.sh' --exclude 'vercel.json' --exclude '.gitignore' --exclude 'README.md' \
+      --exclude 'scripts/importa-da-figma-make.sh' --exclude 'vercel.json' --exclude '.gitignore' --exclude 'README.md' --exclude '.gitattributes' --exclude '*.zip' \
       "$APP"/ "$ROOT"/
 
 # README del progetto: quello di Figma Make viene tenuto come README-figma-make.md

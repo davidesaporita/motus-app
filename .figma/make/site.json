@@ -1,0 +1,10 @@
+{
+  "description": "Esplora wireframe in bianco e nero di Motus per discutere schermate e flussi di un’app che aiuta gli utenti italiani a capire e migliorare le proprie abitudini di mobilità.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

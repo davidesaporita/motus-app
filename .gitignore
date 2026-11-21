@@ -6,3 +6,6 @@ build/
 *.log
 .env
 .env.*
+
+# archivi scaricati da Figma Make
+*.zip

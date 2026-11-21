@@ -1,0 +1,3 @@
+# Git LFS non è usato in questa repository: il progetto pesa meno di 1 MB.
+# (Il file .gitattributes generato da Figma Make attivava LFS per immagini e archivi.)
+* text=auto
