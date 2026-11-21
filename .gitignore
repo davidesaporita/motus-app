@@ -9,3 +9,6 @@ build/
 
 # archivi scaricati da Figma Make
 *.zip
+
+# cartella di lavoro di Claude
+Claude outputs/
